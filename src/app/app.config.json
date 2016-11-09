@@ -1,0 +1,15 @@
+{
+	"appname": "HighSunPrintApp",
+	"scope": "BuyerAdmin BuyerReader FullAccess",
+	"clientid": "6E5F3462-53FC-43AD-87F9-3D5B1EDDB040",
+	"buyerid": "BC000001",
+	"catalogid": "BC000001",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
